@@ -30,4 +30,5 @@ body {
     position: absolute;
     top: 150px; /*OK*/
     left: 300px;
+    width: 60%;
 }
